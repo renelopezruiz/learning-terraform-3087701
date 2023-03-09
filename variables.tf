@@ -13,7 +13,7 @@ variable "ami_filter" {
 
   default = {
     name  = "bitnami-tomcat-*-x86_64-hvm-ebs-nami"
-    owner = "310996210962"
+    owner = "979382823631"
   }
 }
 
